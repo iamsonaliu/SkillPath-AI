@@ -1,0 +1,11 @@
+{
+  "name": "skillpath-ai-monorepo",
+  "version": "1.0.0",
+  "description": "SkillPath AI: An Adaptive Skill Learning and Interview Readiness Platform",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev"
+  },
+  "author": "Sonali Upadhyay, Krishna Choudhary, Kunal Singh Khati, Aditya Kapruwan",
+  "license": "ISC"
+}
